@@ -1,11 +1,32 @@
+
 body{
-    color:green
+    color:rgb(38, 16, 91);
+    background-color:rgb(175, 202, 227);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-style: italic;
 }
 
-#mainnav{
-    position:fixed;
+#title{
+    background-color: white;
+    text-decoration: underline;
 }
 
-.tableauplaceholder{
-    
+#booklist{
+    font-weight: lighter;
+}
+
+#jumpbutton{
+    background-color:white;
+}
+
+#returnbutton{
+    background-color:white;
+    float: inline-end;
+}
+
+#image{
+    border: 5px solid white;
+    padding: 20px;
+    border-style:solid;
 }
