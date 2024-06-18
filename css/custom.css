@@ -10,6 +10,7 @@ body{
 #title{
     background-color: white;
     text-decoration: underline;
+    text-align: center;
 }
 
 #booklist{
@@ -18,6 +19,7 @@ body{
 
 #jumpbutton{
     background-color:white;
+    float:inline-end;
 }
 
 #returnbutton{
